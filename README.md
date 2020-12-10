@@ -29,4 +29,8 @@ For deploying on Heroku:-
     heroku create create randomized directory name from heroku cli
     git push heroku master git push from heroku orig to heroku master
     open heroku: https://taskchatvivek.herokuapp.com/ 
+    
+  ##deployment Issues:-
+  
+  heroku https://taskchatvivek.herokuapp.com/ is fatal not found
 
